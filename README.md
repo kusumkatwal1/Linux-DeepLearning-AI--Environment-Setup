@@ -36,6 +36,7 @@ All sensitive/internal server information has been removed before publication.
 
 * `setup-guide.pdf` → Full installation and configuration guide
 * README.md # Repository overview
+* Cuda toolkit installation
 
 
 © 2025 Kusum Katwal
