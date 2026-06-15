@@ -31,8 +31,8 @@ All sensitive/internal server information has been removed before publication.
 
 ## Files
   * "setup-guide.pdf" → Full installation and configuration guide
-  * README.md -> Repository overview
-  * CUDA_Toolkit _installed.pdf -> Cuda installation guide(In case the GPU => heavy task)
+  * "README.md" -> Repository overview
+  * "CUDA_Toolkit _installed.pdf" -> Cuda installation guide(In case the GPU => heavy task)
 
 
 
