@@ -12,12 +12,12 @@ A complete setup guide for configuring a Linux-based deep learning environment u
   * Package and Environment Management(pip, venv)
   
 ## Features
-    * Linux environment setup
-    * Python and pip installation
-    * Virtual environment management
-    * PyTorch installation
-    * TensorFlow/Keras setup
-    * Jupyter Notebook configuration
+    - Linux environment setup
+    - Python and pip installation
+    - Virtual environment management
+    - PyTorch installation
+    - TensorFlow/Keras setup
+    - Jupyter Notebook configuration
     * Remote SSH tunneling for Jupyter access
     * Multi-user environment setup
     * GPU environment preparation
