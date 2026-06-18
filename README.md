@@ -1,4 +1,4 @@
-# Deep Learning Environment Setup on Linux
+# Deep Learning Environment(Server) Setup on Linux
 A complete setup guide for configuring a Linux-based deep learning environment using Python, virtual environments, PyTorch, TensorFlow, and remote Jupyter Notebook access.
 
 ## Technologies Used
