@@ -4,9 +4,9 @@ A complete setup guide for configuring a Linux-based deep learning environment u
 ## Technologies Used
     - Linux
     - Python
-    * PyTorch
-    * TensorFlow
-    * Jupyter Notebook
+    - PyTorch
+    - TensorFlow
+    - Jupyter Notebook
     * SSH
     * CUDA (GPU setup)
     * Package and Environment Management(pip, venv)
